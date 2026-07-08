@@ -1,4 +1,4 @@
-Welcome to my Git Journey!
+Hello from feature branch
 
 Today I created my first Git commit.
 
