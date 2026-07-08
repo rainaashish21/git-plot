@@ -1,3 +1,5 @@
 Welcome to my Git Journey!
 
 Today I created my first Git commit.
+
+Learning git is fun
