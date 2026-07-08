@@ -1,4 +1,4 @@
-Hello from master folder
+Hello from master folder & feature branch
 
 Today I created my first Git commit.
 
