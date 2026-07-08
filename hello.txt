@@ -1,4 +1,4 @@
-Welcome to my Git Journey!
+Hello from master folder
 
 Today I created my first Git commit.
 
