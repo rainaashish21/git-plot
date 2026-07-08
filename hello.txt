@@ -4,3 +4,4 @@ Today I created my first Git commit.
 
 Learning git is fun
 This line was added in feature-login.
+Learning branches is exciting!
